@@ -1,104 +1,101 @@
-{
-  "movies": [
-    {
-      "title": "Inception",
-      "year": 2010,
-      "genre": [
-        "Action",
-        "Sci-Fi",
-        "Thriller"
-      ],
-      "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
-      "poster": "https://www.themoviedb.org/t/p/original/uY6jA5VgP6ZrKJzZ8hBXw2lN1gE.jpg"
-    },
-    {
-      "title": "The Dark Knight",
-      "year": 2008,
-      "genre": [
-        "Action",
-        "Crime",
-        "Drama"
-      ],
-      "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
-      "poster": "https://www.themoviedb.org/t/p/original/nqHQHffw4jrzt5vJw0NzEuxFgJg.jpg"
-    },
-    {
-      "title": "Forrest Gump",
-      "year": 1994,
-      "genre": [
-        "Drama",
-        "Romance"
-      ],
-      "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold through the perspective of an Alabama man with an IQ of 75.",
-      "poster": "https://www.themoviedb.org/t/p/original/4i6B2eM1gFq5Rk4Z07J5w0s22Zb.jpg"
-    },
-    {
-      "title": "The Matrix",
-      "year": 1999,
-      "genre": [
-        "Action",
-        "Sci-Fi"
-      ],
-      "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
-      "poster": "https://www.themoviedb.org/t/p/original/bF3m8YfR0CNCg46btD7Vd5gIBz0.jpg"
-    },
-    {
-      "title": "The Shawshank Redemption",
-      "year": 1994,
-      "genre": [
-        "Drama"
-      ],
-      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
-      "poster": "https://www.themoviedb.org/t/p/original/xXnV4uNH2XbmKD6MBgR9XgghDHS.jpg"
-    },
-    {
-      "title": "Pulp Fiction",
-      "year": 1994,
-      "genre": [
-        "Crime",
-        "Drama"
-      ],
-      "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
-      "poster": "https://www.themoviedb.org/t/p/original/4WqgOpE6O6OH2O5guHjSkErIk3I.jpg"
-    },
-    {
-      "title": "The Godfather",
-      "year": 1972,
-      "genre": [
-        "Crime",
-        "Drama"
-      ],
-      "description": "An organized crime dynasty's aging patriarch transfers control of his clandestine empire to his reluctant son.",
-      "poster": "https://www.themoviedb.org/t/p/original/lr11L0P0u1kE6vlc8rLMzN8Dq1R.jpg"
-    },
-    {
-      "title": "Fight Club",
-      "year": 1999,
-      "genre": [
-        "Drama"
-      ],
-      "description": "An insomniac office worker forms an underground fight club with a soap maker and becomes entangled in an anarchist plot.",
-      "poster": "https://www.themoviedb.org/t/p/original/4p2Y1Lw9slR7bftT3Mi6GbF3qH1.jpg"
-    },
-    {
-      "title": "The Lord of the Rings: The Fellowship of the Ring",
-      "year": 2001,
-      "genre": [
-        "Adventure",
-        "Fantasy"
-      ],
-      "description": "A meek hobbit from the Shire and eight companions set out on a quest to destroy the One Ring and end Sauron's reign of terror.",
-      "poster": "https://www.themoviedb.org/t/p/original/qKk0TtU5hW8l5VsF3Fn9xJ7Ow0Z.jpg"
-    },
-    {
-      "title": "The Social Network",
-      "year": 2010,
-      "genre": [
-        "Biography",
-        "Drama"
-      ],
-      "description": "As Harvard students create the social networking site that would become Facebook, they must navigate both personal and professional complications.",
-      "poster": "https://www.themoviedb.org/t/p/original/qHn4sw1R0tAejf49lPjIhYxThdc.jpg"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "year": 2010,
+    "genre": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
+    "poster": "https://www.themoviedb.org/t/p/original/uY6jA5VgP6ZrKJzZ8hBXw2lN1gE.jpg"
+  },
+  {
+    "id": 2,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+    "poster": "https://www.themoviedb.org/t/p/original/nqHQHffw4jrzt5vJw0NzEuxFgJg.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Forrest Gump",
+    "year": 1994,
+    "genre": [
+      "Drama",
+      "Romance"
+    ],
+    "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold through the perspective of an Alabama man with an IQ of 75.",
+    "poster": "https://www.themoviedb.org/t/p/original/4i6B2eM1gFq5Rk4Z07J5w0s22Zb.jpg"
+  },
+  {
+    "id": 4,
+    "title": "The Matrix",
+    "year": 1999,
+    "genre": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+    "poster": "https://www.themoviedb.org/t/p/original/bF3m8YfR0CNCg46btD7Vd5gIBz0.jpg"
+  },
+  {
+    "id": 5,
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "genre": [
+      "Drama"
+    ],
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "poster": "https://www.themoviedb.org/t/p/original/xXnV4uNH2XbmKD6MBgR9XgghDHS.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "poster": "https://www.themoviedb.org/t/p/original/4WqgOpE6O6OH2O5guHjSkErIk3I.jpg"
+  },
+  {
+    "id": 7,
+    "title": "The Godfather",
+    "year": 1972,
+    "genre": [
+      "Crime",
+      "Drama"
+    ],
+    "description": "An organized crime dynasty's aging patriarch transfers control of his clandestine empire to his reluctant son.",
+    "poster": "https://www.themoviedb.org/t/p/original/lr11L0P0u1kE6vlc8rLMzN8Dq1R.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Fight Club",
+    "year": 1999,
+    "genre": [
+      "Drama"
+    ],
+    "description": "An insomniac office worker forms an underground fight club with a soap maker and becomes entangled in an anarchist plot.",
+    "poster": "https://www.themoviedb.org/t/p/original/4p2Y1Lw9slR7bftT3Mi6GbF3qH1.jpg"
+  },
+  {
+    "id": 9,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "genre": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "description": "A meek hobbit from the Shire and eight companions set out on a quest to destroy the One Ring and end Sauron's reign of terror.",
+    "poster": "https://www.themoviedb.org/t/p/original/qKk0TtU5hW8l5VsF3Fn9xJ7Ow0Z.jpg"
+  }
+]

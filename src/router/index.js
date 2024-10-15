@@ -4,9 +4,9 @@ import MovieDetail from '@/views/MovieDetail.vue';
 import Favorites from '@/views/FavoritesPage.vue';
 
 const routes = [
-    {path: '/', component: () => Home},
-    {path: '/movie/:id', component: () => MovieDetail},
-    {path: '/favorites', component: () => Favorites}
+    {path: '/', name: 'Home', component: () => Home},
+    {path: '/movie/:id', name: 'MovieShow', component: () => MovieDetail},
+    {path: '/favorites', name: 'Favorites', component: () => Favorites}
 ];
 
 const router = createRouter({
